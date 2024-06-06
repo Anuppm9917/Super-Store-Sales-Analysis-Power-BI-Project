@@ -20,7 +20,7 @@ Power BI (Power Query, DAX)	Data visualization tool.
 Kaggle	For downloading training data.
 Git	A version control system to manage and keep track source code history.
 
-#Problem Statement
+# Problem Statement
 Which mode of shipping is preferable?
 
 Which customer segment is more profitable ?
